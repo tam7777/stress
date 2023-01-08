@@ -1,1 +1,1 @@
-# stress estimation from Gyroscope 
+# Stress estimation from Gyroscope 
